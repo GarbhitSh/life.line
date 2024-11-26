@@ -2,4 +2,6 @@
 Anchored in the principles of sustainability, Lifeline embodies a proactive approach towards workplace safety, contributing to safer and healthier industrial environments.
 
 ##How we built it
+
+
 We built Lifeline using a combination of gas sensors, microcontrollers, and wireless communication modules. The data is processed and sent to a cloud-based platform, which powers the real-time monitoring and alert system. A mobile app was developed to allow users to access data, receive alerts, and track historical information remotely. The design prioritizes durability and ease of use for industrial workers in harsh conditions.
